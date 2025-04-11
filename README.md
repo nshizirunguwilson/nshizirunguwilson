@@ -6,22 +6,26 @@ I am a website developer with a focus on creating dynamic, user-friendly, and hi
 
 # 💫 About Me
 
-🔭 I’m currently working on real world projects<br>👯 I’m looking to collaborate on website development<br>🤝 I’m looking for support with backend development<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about HTML, CSS, JavaScript, SCSS, Tailwind, React.JS, PHP, MySQL<br>⚡ Fun fact: 🧠 I talk to computers more than humans (and they actually listen 😄
 ### 🔭 **Current Projects & Focus**
 I'm actively working on impactful real-world projects, honing my skills across the full-stack spectrum, from frontend interfaces to backend systems.
+
 ### 👯 **Collaboration Interests**
 I’m open to collaborating on website development projects that aim to deliver scalable and user-centered digital experiences.
+
 ### 🤝 **Seeking Support & Mentorship**
 I'm looking for experienced developers who can provide guidance and mentorship on backend development, especially with Node.js and Express.js.
+
 ### 🌱 **Learning & Growth**
 I’m currently expanding my knowledge in **Node.js** and **Express.js** to build faster, more efficient backend applications.
+
 ### 💬 **Ask Me About**
 Feel free to reach out if you'd like to discuss anything related to:
 - **Frontend:** HTML, CSS, SCSS, Tailwind CSS, React.js  
 - **Backend:** PHP, Node.js, Express.js, MySQL  
 - **Tech Best Practices:** Code optimization, clean architecture, and scalability
+
 ### ⚡ **Fun facts about me**
-- 🧠 I talk to computers more than humans (and they actually listen 😄
+- 🧠 I talk to computers more than humans (and they actually listen) 😄
 - 🔧 My browser has more dev tools open than tabs (most of the time)🔎
 - 🚀 I once tried to fix a bug at 3AM... now it’s a feature🏁
 - 🌍 I can speak fluent JavaScript and a little Pythonese 🐍
