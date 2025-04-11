@@ -5,6 +5,7 @@
 I am a website developer with a focus on creating dynamic, user-friendly, and high-performing websites. I’m dedicated to delivering tailored web solutions that meet your needs and provide a seamless experience. Let’s bring your ideas to life!
 
 # 💫 About Me
+---
 
 ### 🔭 **Current Projects & Focus**
 I'm actively working on impactful real-world projects, honing my skills across the full-stack spectrum, from frontend interfaces to backend systems.
@@ -25,6 +26,7 @@ Feel free to reach out if you'd like to discuss anything related to:
 - **Tech Best Practices:** Code optimization, clean architecture, and scalability
 
 ### ⚡ **Fun facts about me**
+### 💬 **Ask Me About**
 - 🧠 I talk to computers more than humans (and they actually listen) 😄
 - 🔧 My browser has more dev tools open than tabs (most of the time)🔎
 - 🚀 I once tried to fix a bug at 3AM... now it’s a feature🏁
