@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Wilson Nshizirungu
 
-![I am Software Engineer](https://media.licdn.com/dms/image/v2/D4D16AQEjYc8kWROSSw/profile-displaybackgroundimage-shrink_350_1400/B4DZVD6ZP2G8AY-/0/1740601138141?e=1746057600&v=beta&t=5bpGfUPUegieu-94htnvNMX4ZaradKWF46HR0TSkfc0](https://cdn.vectorstock.com/i/500p/42/94/blue-abstract-background-modern-gradient-vector-50754294.jpg))
+![Software Image](https://cdn.vectorstock.com/i/500p/42/94/blue-abstract-background-modern-gradient-vector-50754294.jpg)
 
 I’m a web developer specializing in building dynamic, user-centric, and high-performance websites. With a strong focus on clean architecture and responsive design, I deliver custom web solutions that align with your goals and ensure a seamless user experience.
 
