@@ -47,4 +47,4 @@ Feel free to reach out if you'd like to discuss anything related to:
 
 ### ✍️ Random Dev Quote
 
-<img alt="random quote" align="center" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
+<img alt="random quote" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
