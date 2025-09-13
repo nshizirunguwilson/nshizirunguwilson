@@ -41,9 +41,9 @@ Feel free to reach out if you'd like to discuss anything related to:
 
 # 📊 GitHub Stats
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nshiziw&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" >
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nshizirunguwilson&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" >
 
-<img alt="my stats" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshiziw&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
+<img alt="my stats" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshizirunguwilson&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
 
 ### ✍️ Random Dev Quote
 
