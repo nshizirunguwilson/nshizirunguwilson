@@ -1,33 +1,23 @@
 # Hi there 👋, I'm Wilson Nshizirungu
 
-![Software Image](https://cdn.vectorstock.com/i/500p/42/94/blue-abstract-background-modern-gradient-vector-50754294.jpg)
 
 I’m a web developer specializing in building dynamic, user-centric, and high-performance websites. With a strong focus on clean architecture and responsive design, I deliver custom web solutions that align with your goals and ensure a seamless user experience.
 
 # 💫 About Me
 
 ### 🔭 **Current Projects & Focus**
-I'm actively working on impactful real-world projects, honing my skills across the full-stack spectrum, from frontend interfaces to backend systems.
+I'm actively working on impactful real-world projects, honing my skills across the full-stack spectrum.
 
 ### 👯 **Collaboration Interests**
-I’m open to collaborating on website development projects that aim to deliver scalable and user-centered digital experiences.
-
-### 🤝 **Seeking Support & Mentorship**
-I'm looking for experienced developers who can provide guidance and mentorship on backend development, especially with Nest.js and Java.
-
-### 🌱 **Learning & Growth**
-I’m currently expanding my knowledge in **Nest.js** and **Django.js** to build faster, more efficient backend applications.
+I’m open to collaborating on different projects that aim to deliver scalable and user-centered digital experiences.
 
 ### 💬 **Ask Me About**
 Feel free to reach out if you'd like to discuss anything related to:
-- **Frontend:** HTML, CSS, SCSS, Tailwind CSS, React.js, Next.js
-- **Backend & Databases:** PHP, Express.js, Next.js, MySQL  
-- **Tech Best Practices:** Code optimization, clean architecture, and scalability
+- **Frontend:** HTML, CSS, Tailwind CSS, React.js, Next.js
+- **Backend & Databases:** PHP, Express.js, Next.js, MySQL
 
 ### ⚡ **Fun facts about me**
 - 🧠 I talk to computers more than humans (and they actually listen) 😄
-- 🔧 My browser has more dev tools open than tabs (most of the time)🔎
-- 🚀 I once tried to fix a bug at 3AM... now it’s a feature🏁
 - 🌍 I can speak fluent JavaScript and a little Pythonese 🐍
 - ☕ My code runs on coffee... and occasional snacks 🍪
 
