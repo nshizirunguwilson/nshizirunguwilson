@@ -13,8 +13,8 @@ I’m open to collaborating on different projects that aim to deliver scalable a
 
 ### 💬 **Ask Me About**
 Feel free to reach out if you'd like to discuss anything related to:
-- **Frontend:** HTML, CSS, Tailwind CSS, React.js, Next.js
-- **Backend & Databases:** PHP, Express.js, Next.js, MySQL
+- **Frontend:** HTML, CSS, Tailwind CSS, React.js, Next.js, TypeScript, JavaScript
+- **Backend & Databases:** PHP, Express.js, TypeScript, Python, Next.js, MySQL
 
 ### ⚡ **Fun facts about me**
 - 🧠 I talk to computers more than humans (and they actually listen) 😄
