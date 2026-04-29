@@ -1,40 +1,92 @@
-# Hi there 👋, I'm Wilson Nshizirungu
+<div align="center">
 
+# Wilson Nshizirungu
 
-I’m a web developer specializing in building dynamic, user-centric, and high-performance websites. With a strong focus on clean architecture and responsive design, I deliver custom web solutions that align with your goals and ensure a seamless user experience.
+**Full-Stack Web Developer · Kigali, Rwanda**
 
-# 💫 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-wilson--tan.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://wilson-tan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Nshizirungu-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilson-nshizirungu)
+[![Email](https://img.shields.io/badge/Email-wilsonshizirungu%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wilsonshizirungu@gmail.com)
+[![X](https://img.shields.io/badge/X-@wilsonshizi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/wilsonshizi)
+[![Profile Views](https://komarev.com/ghpvc/?username=nshizirunguwilson&style=flat-square&color=0ea5e9)](https://github.com/nshizirunguwilson)
 
-### 🔭 **Current Projects & Focus**
-I'm actively working on impactful real-world projects, honing my skills across the full-stack spectrum.
+</div>
 
-### 👯 **Collaboration Interests**
-I’m open to collaborating on different projects that aim to deliver scalable and user-centered digital experiences.
+---
 
-### 💬 **Ask Me About**
-Feel free to reach out if you'd like to discuss anything related to:
-- **Frontend:** HTML, CSS, Tailwind CSS, React.js, Next.js, TypeScript, JavaScript
-- **Backend & Databases:** PHP, Express.js, TypeScript, Python, Next.js, MySQL
+## About Me
 
-### ⚡ **Fun facts about me**
-- 🧠 I talk to computers more than humans (and they actually listen) 😄
-- 🌍 I can speak fluent JavaScript and a little Pythonese 🐍
-- ☕ My code runs on coffee... and occasional snacks 🍪
+I'm a full-stack web developer based in Kigali, Rwanda, focused on building scalable, user-centred web applications. I care about clean architecture, thoughtful UI, and shipping products that actually solve problems.
 
-<!-- ## 🌐 Socials -->
+- 🔭 &nbsp;Currently building and shipping real-world full-stack projects
+- 🌱 &nbsp;Deepening my expertise in TypeScript, Next.js, and backend architecture
+- 💬 &nbsp;Open to collaborating on meaningful products — reach out anytime
+- 📫 &nbsp;[wilsonshizirungu@gmail.com](mailto:wilsonshizirungu@gmail.com)
 
-<!-- [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/wilsonn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nshizirungu.w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nshizirungu-wilson) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nshiziboi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nshiziboi) -->
+---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Frontend**
 
-<!-- # 📊 GitHub Stats -->
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 
-<!-- <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nshizirunguwilson&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" > -->
+**Backend & Databases**
 
-<!-- <img alt="my stats" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshizirunguwilson&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" > -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 
-### ✍️ Random Dev Quote
+**Tools & Platforms**
 
-<img alt="random quote" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" >
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **RadEL** | A luxury e-commerce website for a handcrafted jewellery brand | TypeScript, Next.js, Tailwind CSS | [Repo](https://github.com/nshizirunguwilson/RadEL) |
+| **ALX Python Project** | Backend Python project built as part of the ALX Software Engineering programme | Python | [Repo](https://github.com/nshizirunguwilson/alx_python_project) |
+
+> 💡 *More projects on my [portfolio →](https://wilson-tan.vercel.app)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nshizirunguwilson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshizirunguwilson&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=nshizirunguwilson&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Not just full-stack, but full-vision."*
+
+</div>
