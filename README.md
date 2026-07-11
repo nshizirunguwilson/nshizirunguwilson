@@ -18,7 +18,6 @@
 Software engineer building scalable, user-centred products for businesses across Kigali. Co-founder and lead developer at WacTechX, a software agency serving hospitality, retail, real estate, and food clients. Second-year Software Engineering student at African Leadership University. I care about clean architecture, thoughtful UI, and shipping things that solve real problems.
 
 - 🏗️ &nbsp;Building WacTechX, shipping web and mobile products for real clients
-- 🎓 &nbsp;BSc (Hons) Software Engineering at African Leadership University
 - 🌱 &nbsp;Working across the stack: Next.js, NestJS, React Native, FastAPI
 - 💬 &nbsp;Open to collaborating on meaningful products
 - 📫 &nbsp;[hello@wilsonn.tech](mailto:hello@wilsonn.tech)
@@ -72,18 +71,3 @@ Software engineer building scalable, user-centred products for businesses across
 > 💡 *More on my [portfolio →](https://wilsonn.tech)*
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nshizirunguwilson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshizirunguwilson&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-*"Not just full-stack, but full-vision."*
-
-</div>
