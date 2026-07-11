@@ -4,8 +4,8 @@
 
 **Full-Stack Web Developer · Kigali, Rwanda**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wilson--tan.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://wilsonn.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Nshizirungu-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilson-nshizirungu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wilson.tech-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://wilsonn.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Nshizirungu-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nshizirunguwilson/)
 [![Email](https://img.shields.io/badge/Email-wilsonshizirungu%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@wilsonn.tech)
 [![X](https://img.shields.io/badge/X-@wilsonshizi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/wilsonshizi)
 [![Profile Views](https://komarev.com/ghpvc/?username=nshizirunguwilson&style=flat-square&color=0ea5e9)](https://github.com/nshizirunguwilson)
