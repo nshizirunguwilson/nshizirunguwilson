@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-wilsonn.tech-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://wilsonn.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Nshizirungu-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nshizirunguwilson/)
 [![Email](https://img.shields.io/badge/Email-hello%40wilsonn.tech-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@wilsonn.tech)
-[![X](https://img.shields.io/badge/X-@wilsonshizi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/n_nshizirungu)
+[![X](https://img.shields.io/badge/X-@n_nshizirungu-black?style=flat-square&logo=x&logoColor=white)](https://x.com/n_nshizirungu)
 
 </div>
 
