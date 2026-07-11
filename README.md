@@ -2,12 +2,12 @@
 
 # Wilson Nshizirungu
 
-**Software Engineer · Co-founder & Lead Developer at [WacTechX](https://github.com/wactechx) · Kigali, Rwanda**
+**Software Engineer · Co-founder & Lead Developer at [WAC TechX](https://wactechx.com) · Kigali, Rwanda**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wilsonn.tech-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://wilsonn.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Nshizirungu-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nshizirunguwilson/)
 [![Email](https://img.shields.io/badge/Email-hello%40wilsonn.tech-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@wilsonn.tech)
-[![X](https://img.shields.io/badge/X-@wilsonshizi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/wilsonshizi)
+[![X](https://img.shields.io/badge/X-@wilsonshizi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/n_nshizirungu)
 
 </div>
 
@@ -15,9 +15,9 @@
 
 ## About Me
 
-Software engineer building scalable, user-centred products for businesses across Kigali. Co-founder and lead developer at WacTechX, a software agency serving hospitality, retail, real estate, and food clients. Second-year Software Engineering student at African Leadership University. I care about clean architecture, thoughtful UI, and shipping things that solve real problems.
+Software engineer building scalable, user-centred products for businesses across Kigali. Co-founder and lead developer at WAC TechX, a software agency serving hospitality, retail, real estate, and food clients. Second-year Software Engineering student at African Leadership University. I care about clean architecture, thoughtful UI, and shipping things that solve real problems.
 
-- 🏗️ &nbsp;Building WacTechX, shipping web and mobile products for real clients
+- 🏗️ &nbsp;Building WAC TechX, shipping web and mobile products for real clients
 - 🌱 &nbsp;Working across the stack: Next.js, NestJS, React Native, FastAPI
 - 💬 &nbsp;Open to collaborating on meaningful products
 - 📫 &nbsp;[hello@wilsonn.tech](mailto:hello@wilsonn.tech)
